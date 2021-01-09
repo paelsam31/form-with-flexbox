@@ -17,8 +17,7 @@ body {
   padding: 20px;
   border: 8px solid #aaaaaa;
   outline: 7px solid white;
-  min-width: 600px;
-  max-width: 1000px;
+  min-width: 490px;
 }
 
 .form {
